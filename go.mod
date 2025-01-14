@@ -3,7 +3,7 @@ module github.com/tnb-labs/panel
 go 1.23
 
 require (
-	github.com/bddjr/hlfhr v1.3.6
+	github.com/bddjr/hlfhr v1.3.8
 	github.com/beevik/ntp v1.4.3
 	github.com/creack/pty v1.1.24
 	github.com/expr-lang/expr v1.16.9
@@ -14,7 +14,7 @@ require (
 	github.com/go-rat/gormstore v1.0.6
 	github.com/go-rat/sessions v1.0.11
 	github.com/go-rat/utils v1.0.7
-	github.com/go-resty/resty/v2 v2.16.2
+	github.com/go-resty/resty/v2 v2.16.3
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/golang-cz/httplog v0.0.0-20241002114323-98e09d6f537a
 	github.com/gomodule/redigo v1.9.2
@@ -31,7 +31,7 @@ require (
 	github.com/libdns/huaweicloud v0.3.1
 	github.com/libdns/libdns v0.2.2
 	github.com/libdns/tencentcloud v1.1.0
-	github.com/mholt/acmez/v3 v3.0.0
+	github.com/mholt/acmez/v3 v3.0.1
 	github.com/orandin/slog-gorm v1.4.0
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/samber/lo v1.47.0
@@ -41,8 +41,8 @@ require (
 	github.com/stretchr/testify v1.10.0
 	github.com/tufanbarisyildirim/gonginx v0.0.0-20241225173012-5cc15aab65bd
 	github.com/urfave/cli/v3 v3.0.0-beta1
-	golang.org/x/crypto v0.31.0
-	golang.org/x/net v0.33.0
+	golang.org/x/crypto v0.32.0
+	golang.org/x/net v0.34.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/gorm v1.25.12
@@ -79,7 +79,7 @@ require (
 	github.com/tklauser/numcpus v0.8.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/sys v0.29.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	modernc.org/libc v1.60.1 // indirect
@@ -90,5 +90,5 @@ require (
 
 replace (
 	github.com/libdns/tencentcloud => github.com/devhaozi/tencentcloud v0.0.0-20241129095955-7d4e898ce504
-	github.com/mholt/acmez/v3 => github.com/tnb-labs/acmez/v3 v3.0.0-20241217024017-a2f2c48efdcc
+	github.com/mholt/acmez/v3 => github.com/tnb-labs/acmez/v3 v3.0.0-20250101070450-67fb7b3d86d1
 )
