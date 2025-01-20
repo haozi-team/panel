@@ -40,8 +40,8 @@ github.com/go-rat/sessions v1.0.11 h1:2eTUvhEBtymrAtwv71LlGHNylz+Ad2SgY3jg/sSUbo
 github.com/go-rat/sessions v1.0.11/go.mod h1:Ray/GCbuhm4U9xpjFFSCfOTCEn91puEhAXX5creHE9g=
 github.com/go-rat/utils v1.0.8 h1:XaRx4LCQU+UXlGYndt0V2lMdLp8uQ5UjoFfcXbTUjmg=
 github.com/go-rat/utils v1.0.8/go.mod h1:LhzbrdsTHIo6Rjlz27Nh8edkugmoxbZjN87iV+ch+5M=
-github.com/go-resty/resty/v2 v2.16.3 h1:zacNT7lt4b8M/io2Ahj6yPypL7bqx9n1iprfQuodV+E=
-github.com/go-resty/resty/v2 v2.16.3/go.mod h1:hkJtXbA2iKHzJheXYvQ8snQES5ZLGKMwQ07xAwp/fiA=
+github.com/go-resty/resty/v2 v2.16.4 h1:81IjtszQKwbz7dot4LLYGwhJNUsNwECD2O7nru5q60E=
+github.com/go-resty/resty/v2 v2.16.4/go.mod h1:hkJtXbA2iKHzJheXYvQ8snQES5ZLGKMwQ07xAwp/fiA=
 github.com/go-sql-driver/mysql v1.8.1 h1:LedoTUt/eveggdHS9qUFC1EFSa8bU2+1pZjSRpvNJ1Y=
 github.com/go-sql-driver/mysql v1.8.1/go.mod h1:wEBSXgmK//2ZFJyE+qWnIsVGmvmEKlqwuVSjsCm7DZg=
 github.com/go-viper/mapstructure/v2 v2.2.1 h1:ZAaOCxANMuZx5RCeg0mBdEZk7DZasvvZIxtHqx8aGss=
@@ -147,8 +147,8 @@ github.com/tklauser/numcpus v0.8.0 h1:Mx4Wwe/FjZLeQsK/6kt2EOepwwSl7SmJrK5bV/dXYg
 github.com/tklauser/numcpus v0.8.0/go.mod h1:ZJZlAY+dmR4eut8epnzf0u/VwodKmryxR8txiloSqBE=
 github.com/tnb-labs/acmez/v3 v3.0.0-20250101070450-67fb7b3d86d1 h1:7IhZYEiBWy3KfKi9wZkv4Um8QYYF2fYzQ+xNrOx/tHI=
 github.com/tnb-labs/acmez/v3 v3.0.0-20250101070450-67fb7b3d86d1/go.mod h1:L1wOU06KKvq7tswuMDwKdcHeKpFFgkppZy/y0DFxagQ=
-github.com/tufanbarisyildirim/gonginx v0.0.0-20241225173012-5cc15aab65bd h1:PYNV7LTzEzZ4lousHUM2yaDO2zI3FNt9NA0iuGrbK7w=
-github.com/tufanbarisyildirim/gonginx v0.0.0-20241225173012-5cc15aab65bd/go.mod h1:hdMWBc1+TyB6G5ZZBBgPWQ8cjRZ6zpYdhal0uu6E9QM=
+github.com/tufanbarisyildirim/gonginx v0.0.0-20250120210832-12a9c7ae0c8a h1:bFMBmB409YhHd+B4yfM7JPYTCgxnQjqzIfFOiN4Tpsc=
+github.com/tufanbarisyildirim/gonginx v0.0.0-20250120210832-12a9c7ae0c8a/go.mod h1:hdMWBc1+TyB6G5ZZBBgPWQ8cjRZ6zpYdhal0uu6E9QM=
 github.com/urfave/cli/v3 v3.0.0-beta1 h1:6DTaaUarcM0wX7qj5Hcvs+5Dm3dyUTBbEwIWAjcw9Zg=
 github.com/urfave/cli/v3 v3.0.0-beta1/go.mod h1:FnIeEMYu+ko8zP1F9Ypr3xkZMIDqW3DR92yUtY39q1Y=
 github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e h1:JVG44RsyaB9T2KIHavMF/ppJZNG9ZpyihvCd0w101no=

@@ -14,7 +14,7 @@ require (
 	github.com/go-rat/gormstore v1.0.6
 	github.com/go-rat/sessions v1.0.11
 	github.com/go-rat/utils v1.0.8
-	github.com/go-resty/resty/v2 v2.16.3
+	github.com/go-resty/resty/v2 v2.16.4
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/golang-cz/httplog v0.0.0-20241002114323-98e09d6f537a
 	github.com/gomodule/redigo v1.9.2
@@ -39,7 +39,7 @@ require (
 	github.com/shirou/gopsutil v2.21.11+incompatible
 	github.com/spf13/cast v1.7.1
 	github.com/stretchr/testify v1.10.0
-	github.com/tufanbarisyildirim/gonginx v0.0.0-20241225173012-5cc15aab65bd
+	github.com/tufanbarisyildirim/gonginx v0.0.0-20250120210832-12a9c7ae0c8a
 	github.com/urfave/cli/v3 v3.0.0-beta1
 	golang.org/x/crypto v0.32.0
 	golang.org/x/net v0.34.0
