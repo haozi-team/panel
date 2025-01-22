@@ -38,8 +38,8 @@ github.com/go-rat/securecookie v1.0.1 h1:HW0fpKmB+FjJzXTw8ABOwBJ+XrPmRBSZqHhmrv8
 github.com/go-rat/securecookie v1.0.1/go.mod h1:tP/ObWYyjmcpabQ7WTon/i2lBSip/Aolliw2llXuPDU=
 github.com/go-rat/sessions v1.0.11 h1:2eTUvhEBtymrAtwv71LlGHNylz+Ad2SgY3jg/sSUboA=
 github.com/go-rat/sessions v1.0.11/go.mod h1:Ray/GCbuhm4U9xpjFFSCfOTCEn91puEhAXX5creHE9g=
-github.com/go-rat/utils v1.0.8 h1:XaRx4LCQU+UXlGYndt0V2lMdLp8uQ5UjoFfcXbTUjmg=
-github.com/go-rat/utils v1.0.8/go.mod h1:LhzbrdsTHIo6Rjlz27Nh8edkugmoxbZjN87iV+ch+5M=
+github.com/go-rat/utils v1.0.9 h1:16zq6CpeULJgoW+TaJZ+gS4EPl0tQYAcuAdx3/GNCNs=
+github.com/go-rat/utils v1.0.9/go.mod h1:LhzbrdsTHIo6Rjlz27Nh8edkugmoxbZjN87iV+ch+5M=
 github.com/go-resty/resty/v2 v2.16.4 h1:81IjtszQKwbz7dot4LLYGwhJNUsNwECD2O7nru5q60E=
 github.com/go-resty/resty/v2 v2.16.4/go.mod h1:hkJtXbA2iKHzJheXYvQ8snQES5ZLGKMwQ07xAwp/fiA=
 github.com/go-sql-driver/mysql v1.8.1 h1:LedoTUt/eveggdHS9qUFC1EFSa8bU2+1pZjSRpvNJ1Y=

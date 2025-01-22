@@ -13,7 +13,7 @@ require (
 	github.com/go-rat/chix v1.1.4
 	github.com/go-rat/gormstore v1.0.6
 	github.com/go-rat/sessions v1.0.11
-	github.com/go-rat/utils v1.0.8
+	github.com/go-rat/utils v1.0.9
 	github.com/go-resty/resty/v2 v2.16.4
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/golang-cz/httplog v0.0.0-20241002114323-98e09d6f537a
