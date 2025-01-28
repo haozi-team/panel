@@ -34,7 +34,7 @@ require (
 	github.com/mholt/acmez/v3 v3.0.1
 	github.com/orandin/slog-gorm v1.4.0
 	github.com/robfig/cron/v3 v3.0.1
-	github.com/samber/lo v1.49.0
+	github.com/samber/lo v1.49.1
 	github.com/sethvargo/go-limiter v1.0.0
 	github.com/shirou/gopsutil v2.21.11+incompatible
 	github.com/spf13/cast v1.7.1
