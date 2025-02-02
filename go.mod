@@ -30,7 +30,7 @@ require (
 	github.com/libdns/cloudflare v0.1.1
 	github.com/libdns/huaweicloud v0.3.1
 	github.com/libdns/libdns v0.2.2
-	github.com/libdns/tencentcloud v1.1.0
+	github.com/libdns/tencentcloud v1.2.0
 	github.com/mholt/acmez/v3 v3.0.1
 	github.com/orandin/slog-gorm v1.4.0
 	github.com/robfig/cron/v3 v3.0.1
